@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "445198162123",
+    "project_id": "mykampung-3e569",
+    "storage_bucket": "mykampung-3e569.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445198162123:android:2aaa25cf95cfc9713aa34e",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445198162123-n6fpq3cj3eo19l08jfb1qc0btlk5ns0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCSXCjAIbLxASsngsXYF39a7-Yqh-cOns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445198162123-n6fpq3cj3eo19l08jfb1qc0btlk5ns0s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445198162123-easvecusfjv57a4vreo34g7mh7mqepcp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

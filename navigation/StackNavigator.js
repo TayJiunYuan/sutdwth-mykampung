@@ -5,11 +5,11 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import LoginScreen from '../screens/LoginScreen';
 import Registration from '../screens/RegistrationScreen';
 import HomeScreen from '../screens/HomeScreen';
-//import useAuth from '../hooks/useAuth';
+import useAuth from '../hooks/useAuth';
 
 
 const Stack = createNativeStackNavigator();
-//const { user } = useAuth();
+const { user } = useAuth();
 
 const StackNavigator = () => {
   return (
